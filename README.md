@@ -36,5 +36,5 @@
 ##
 
   
-<!--![Snake animation](https://github.com/gustavoroldam/gustavoroldam/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/gustavoroldam/gustavoroldam/blob/output/github-contribution-grid-snake.svg)
   
