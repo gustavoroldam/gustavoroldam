@@ -28,11 +28,13 @@
 ## Contatos
   
 <div>
-  <a href = "linkedin.com/in/gustavo-roldam-976b55175"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "http://www.linkedin.com/in/gustavo-roldam-976b55175"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:roldam.gustavo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "http://www.instagram.com/gustavoroldam"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" terget="_blank"></a>
 </div>
   
 ##
+
   
 <!--![Snake animation](https://github.com/gustavoroldam/gustavoroldam/blob/output/github-contribution-grid-snake.svg)-->
   
