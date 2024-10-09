@@ -22,6 +22,20 @@
   <a href= "https://github.com/gustavoroldam/SiteBasico"> <img align="center" alt="Gustavo-Py" height="30" width="40" src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=ffffff"> </a>
   <img align="center" alt="Gustavo-Py" height="30" width="40" src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=ffffff">
   <img align="center" alt="Gustavo-Py" height="30" width="40" src="https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=128&color=ffffff">
+  <img align="center" alt="Gustavo-Py" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Gustavo-Py" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=ffffff">
+</div>
+
+##
+## Tecnologias Utilizadas
+
+<div>
+  <a href= "https://github.com/gustavoroldam/IA-Python"> <img align="center" alt="Gustavo-Py" height="30" width="40" src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=ffffff"> </a>
+  <img align="center" alt="Gustavo-Py" height="50" width="60" src="https://icongr.am/devicon/git-plain-wordmark.svg?size=128?size=128&color=ffffff">
+  <img align="center" alt="Gustavo-Py" height="50" width="60" src="https://icongr.am/devicon/dot-net-plain-wordmark.svg?size=128&color=ffffff">
+  <img align="center" alt="Gustavo-Py" height="50" width="60" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=128&color=ffffff">
+  <img align="center" alt="Gustavo-Py" height="30" width="40" src="https://icongr.am/devicon/tomcat-line-wordmark.svg?size=128&color=ffffff">
+  <img align="center" alt="Gustavo-Py" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
 </div>
  
 ##
